@@ -1,0 +1,534 @@
+tcp        0      0 0.0.0.0:27017           0.0.0.0:*               LISTEN      off (0.00/0/0)
+tcp        0      0 localhost:33060         0.0.0.0:*               LISTEN      off (0.00/0/0)
+tcp        0      0 0.0.0.0:tproxy          0.0.0.0:*               LISTEN      off (0.00/0/0)
+tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN      off (0.00/0/0)
+tcp        0      0 localhost:mysql         0.0.0.0:*               LISTEN      off (0.00/0/0)
+tcp        0      0 localhost:domain        0.0.0.0:*               LISTEN      off (0.00/0/0)
+tcp        0      0 android-cf4fb9a17:53928 par21s17-in-f3.1e:https ESTABLISHED keepalive (22.10/0/0)
+tcp        0      0 delpt:41358             192.168.128.3:27017     ESTABLISHED keepalive (12.06/0/0)
+tcp        0      0 localhost:27017         localhost:54066         ESTABLISHED keepalive (1.91/0/0)
+tcp        0      0 localhost:mysql         localhost:50996         ESTABLISHED keepalive (6806.58/0/0)
+tcp        0      0 android-cf4fb9a17:59406 20.42.65.88:https       ESTABLISHED keepalive (12.01/0/0)
+tcp        0      0 android-cf4fb9a17:45174 fracktail.canonica:http TIME_WAIT   timewait (38.51/0/0)
+tcp        0      0 delpt:41340             192.168.128.3:27017     ESTABLISHED keepalive (1.91/0/0)
+tcp        0      0 localhost:mysql         localhost:51020         ESTABLISHED keepalive (6806.73/0/0)
+tcp        0      0 android-cf4fb9a17:43002 20.199.120.182:https    ESTABLISHED keepalive (20.04/0/0)
+tcp        0      0 localhost:mysql         localhost:50974         ESTABLISHED keepalive (6806.42/0/0)
+tcp        1      0 android-cf4fb9a17:42842 fiberbox.ho:netbios-ssn CLOSE_WAIT  off (0.00/0/0)
+tcp        0      0 android-cf4fb9a17:42122 server-13-227-219:https ESTABLISHED keepalive (32.37/0/0)
+tcp        0      0 android-cf4fb9a17:38636 server-52-222-139:https ESTABLISHED keepalive (32.35/0/0)
+tcp        0      0 localhost:27017         localhost:54080         ESTABLISHED keepalive (1.64/0/0)
+tcp        0      0 localhost:mysql         localhost:50976         ESTABLISHED keepalive (6806.48/0/0)
+tcp        0      0 localhost:mysql         localhost:50984         ESTABLISHED keepalive (6806.54/0/0)
+tcp        0      0 localhost:mysql         localhost:50954         ESTABLISHED keepalive (6806.23/0/0)
+tcp        0      0 delpt:41354             192.168.128.3:27017     ESTABLISHED keepalive (1.64/0/0)
+tcp        0      0 localhost:mysql         localhost:51008         ESTABLISHED keepalive (6806.68/0/0)
+tcp        0      0 localhost:mysql         localhost:51004         ESTABLISHED keepalive (6806.63/0/0)
+tcp        0      0 localhost:27017         localhost:54088         ESTABLISHED keepalive (11.33/0/0)
+tcp        0      0 localhost:mysql         localhost:51022         ESTABLISHED keepalive (6806.04/0/0)
+tcp        0      0 android-cf4fb9a17:46960 par21s22-in-f2.1e:https TIME_WAIT   timewait (24.40/0/0)
+tcp        0      0 localhost:mysql         localhost:50960         ESTABLISHED keepalive (6805.64/0/0)
+tcp6       0      0 [::]:35729              [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 localhost:34395         [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 localhost:63342         [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 [::]:27017              [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 localhost:45163         [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 [::]:tproxy             [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 [::]:http-alt           [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 ip6-localhost:ipp       [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 [::]:37183              [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 localhost:61271         [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 localhost:64120         [::]:*                  LISTEN      off (0.00/0/0)
+tcp6       0      0 localhost:51020         localhost:mysql         ESTABLISHED keepalive (6805.99/0/0)
+tcp6       0      0 deya-lap.home:43968     edge-dgw6-shv-02-:https ESTABLISHED keepalive (28.22/0/0)
+tcp6       0      0 deya-lap.home:52356     2606:4700:4400::a:https ESTABLISHED keepalive (31.62/0/0)
+tcp6       0      0 deya-lap.home:41668     par21s11-in-x03.1:https ESTABLISHED keepalive (31.64/0/0)
+tcp6       0      0 deya-lap.home:43672     par10s41-in-x0a.1:https ESTABLISHED keepalive (31.62/0/0)
+tcp6       0      0 localhost:50996         localhost:mysql         ESTABLISHED keepalive (6805.84/0/0)
+tcp6       0      0 localhost:51004         localhost:mysql         ESTABLISHED keepalive (6805.90/0/0)
+tcp6       0      0 deya-lap.home:47508     edge-z-p36-shv-01:https ESTABLISHED keepalive (16.99/0/0)
+tcp6       0      0 localhost:51022         localhost:mysql         ESTABLISHED keepalive (6806.03/0/0)
+tcp6       0      0 localhost:50976         localhost:mysql         ESTABLISHED keepalive (6805.74/0/0)
+tcp6       0      0 deya-lap.home:58962     par10s41-in-x0e.1:https ESTABLISHED keepalive (13.20/0/0)
+tcp6       0      0 localhost:50984         localhost:mysql         ESTABLISHED keepalive (6804.95/0/0)
+tcp6       0      0 deya-lap.home:56008     par10s38-in-x02.1:https TIME_WAIT   timewait (23.46/0/0)
+tcp6       0      0 deya-lap.home:47554     2620:1ec:21::14:https   ESTABLISHED keepalive (28.69/0/0)
+tcp6       0      0 deya-lap.home:55988     par10s38-in-x02.1:https TIME_WAIT   timewait (21.62/0/0)
+tcp6       0      0 localhost:50960         localhost:mysql         ESTABLISHED keepalive (6804.77/0/0)
+tcp6       0      0 localhost:53566         localhost:34395         TIME_WAIT   timewait (53.38/0/0)
+tcp6       0      0 deya-lap.home:40956     par21s17-in-x03.1:https ESTABLISHED keepalive (38.94/0/0)
+tcp6       0      0 localhost:55666         localhost:34395         ESTABLISHED keepalive (7105.23/0/0)
+tcp6       0      0 localhost:44882         localhost:45163         ESTABLISHED keepalive (6867.12/0/0)
+tcp6       0      0 android-cf4fb9a17:54560 163.149.149.34.bc:https ESTABLISHED off (0.00/0/0)
+tcp6       0      0 localhost:45163         localhost:44882         ESTABLISHED keepalive (6867.12/0/0)
+tcp6       0      0 deya-lap.home:40092     par10s42-in-x02.1:https TIME_WAIT   timewait (22.72/0/0)
+tcp6       0      0 deya-lap.home:38014     2606:4700::6812:1:https ESTABLISHED keepalive (30.76/0/0)
+tcp6       0      0 deya-lap.home:45818     par21s20-in-x0e.1:https TIME_WAIT   timewait (21.82/0/0)
+tcp6       0      0 deya-lap.home:37298     2606:4700::6812:a:https ESTABLISHED keepalive (30.76/0/0)
+tcp6       0      0 deya-lap.home:47438     2606:4700:10::681:https ESTABLISHED keepalive (0.00/0/0)
+tcp6       0      0 localhost:51008         localhost:mysql         ESTABLISHED keepalive (6805.08/0/0)
+tcp6       0      0 deya-lap.home:37292     2606:4700::6812:a:https ESTABLISHED keepalive (30.76/0/0)
+tcp6       0      0 deya-lap.home:33804     par21s17-in-x03.1:https ESTABLISHED keepalive (20.56/0/0)
+tcp6       0      0 deya-lap.home:45880     edge-star6-shv-02:https ESTABLISHED keepalive (16.36/0/0)
+tcp6       0      0 localhost:50954         localhost:mysql         ESTABLISHED keepalive (6804.64/0/0)
+tcp6       0      0 deya-lap.home:60158     par10s21-in-x08.1:https TIME_WAIT   timewait (21.63/0/0)
+tcp6       0      0 deya-lap.home:34964     par21s19-in-x0a.1:https TIME_WAIT   timewait (22.84/0/0)
+tcp6       0      0 deya-lap.home:37382     par10s21-in-x08.1:https ESTABLISHED keepalive (29.03/0/0)
+tcp6       0      0 deya-lap.home:53482     par21s17-in-x01.1:https TIME_WAIT   timewait (13.14/0/0)
+tcp6       0      0 deya-lap.home:57894     wr-in-f188.1e100.n:5228 ESTABLISHED keepalive (14.69/0/0)
+tcp6       0      0 android-cf4fb9a17:54556 163.149.149.34.bc:https ESTABLISHED off (0.00/0/0)
+tcp6       0      0 deya-lap.home:50028     par10s42-in-x0a.1:https ESTABLISHED keepalive (43.33/0/0)
+tcp6       0      0 deya-lap.home:45852     edge-star6-shv-02:https ESTABLISHED keepalive (16.38/0/0)
+tcp6       0      0 deya-lap.home:43964     edge-dgw6-shv-02-:https ESTABLISHED keepalive (31.56/0/0)
+tcp6       0      0 deya-lap.home:42672     par10s21-in-x04.1:https TIME_WAIT   timewait (20.95/0/0)
+tcp6       0      0 localhost:50974         localhost:mysql         ESTABLISHED keepalive (6803.08/0/0)
+tcp6       0      0 deya-lap.home:54016     par21s06-in-x02.1:https TIME_WAIT   timewait (20.14/0/0)
+tcp6       0      0 deya-lap.home:45856     edge-star6-shv-02:https ESTABLISHED keepalive (16.71/0/0)
+tcp6       0      0 deya-lap.home:57902     wr-in-xbc.1e100.ne:5228 ESTABLISHED keepalive (35.14/0/0)
+tcp6       0      0 localhost:52274         localhost:61271         ESTABLISHED keepalive (6741.43/0/0)
+tcp6       0      0 deya-lap.home:36062     2a00:18d8:0:5::d5:https ESTABLISHED keepalive (24.90/0/0)
+tcp6       0      0 deya-lap.home:33268     par10s49-in-x03.1:https TIME_WAIT   timewait (21.12/0/0)
+tcp6       0      0 deya-lap.home:45346     par21s17-in-x03.1:https ESTABLISHED keepalive (12.61/0/0)
+tcp6       0      0 deya-lap.home:41326     par21s19-in-x0a.1:https ESTABLISHED keepalive (29.03/0/0)
+tcp6       0      0 localhost:34395         localhost:55666         ESTABLISHED off (0.00/0/0)
+tcp6       0      0 localhost:61271         localhost:52274         ESTABLISHED off (0.00/0/0)
+tcp6       0      0 deya-lap.home:59970     banjo.canonical.co:http TIME_WAIT   timewait (47.22/0/0)
+tcp6       0      0 deya-lap.home:45870     edge-star6-shv-02:https ESTABLISHED keepalive (3.97/0/0)
+tcp6       0      0 deya-lap.home:42092     par21s03-in-x01.1:https TIME_WAIT   timewait (21.17/0/0)
+tcp6       0      0 deya-lap.home:50282     fra15s46-in-x03.1:https ESTABLISHED keepalive (43.33/0/0)
+tcp6       0      0 deya-lap.home:56834     par21s11-in-x02.1:https TIME_WAIT   timewait (19.79/0/0)
+tcp6       0      0 deya-lap.home:47040     2620:1ec:22::14:https   ESTABLISHED keepalive (23.86/0/0)
+tcp6       0      0 localhost:54080         localhost:27017         ESTABLISHED keepalive (82.26/0/0)
+tcp6       0      0 deya-lap.home:55020     par21s11-in-x01.1:https ESTABLISHED keepalive (27.97/0/0)
+tcp6       0      0 localhost:54066         localhost:27017         ESTABLISHED keepalive (72.50/0/0)
+tcp6       0      0 localhost:54088         localhost:27017         ESTABLISHED keepalive (82.55/0/0)
+udp        0      0 0.0.0.0:48432           0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 localhost:domain        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 android-cf4fb9a1:bootpc fiberbox.home:bootps    ESTABLISHED off (0.00/0/0)
+udp        0      0 android-cf4fb9a17:41492 0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 0.0.0.0:631             0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 0.0.0.0:mdns            0.0.0.0:*                           off (0.00/0/0)
+udp        0      0 delpt:55731             0.0.0.0:*                           off (0.00/0/0)
+udp6       0      0 deya-lap.home:36016     par21s22-in-x0a.1:https ESTABLISHED off (0.00/0/0)
+udp6       0      0 deya-lap.home:60889     par21s17-in-x03.1:https ESTABLISHED off (0.00/0/0)
+udp6       0      0 deya-lap.home:40960     [::]:*                              off (0.00/0/0)
+udp6       0      0 delpt:dhcpv6-client     [::]:*                              off (0.00/0/0)
+udp6       0      0 [::]:49981              [::]:*                              off (0.00/0/0)
+udp6       0      0 [::]:mdns               [::]:*                              off (0.00/0/0)
+udp6       0      0 deya-lap.home:60392     par21s19-in-x0a.1:https ESTABLISHED off (0.00/0/0)
+raw6       0      0 [::]:ipv6-icmp          [::]:*                  7           off (0.00/0/0)
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ACC ]     STREAM     LISTENING     37155    @/tmp/.ICE-unix/3079
+unix  3      [ ]         SEQPACKET  CONNECTED     652480   @1e7ff
+unix  3      [ ]         SEQPACKET  CONNECTED     652485   @506c3
+unix  2      [ ]         DGRAM                    29857    /run/wpa_supplicant/wlo1
+unix  2      [ ACC ]     STREAM     LISTENING     715485   /run/cups/cups.sock
+unix  2      [ ACC ]     STREAM     LISTENING     25892    /var/run/mysqld/mysqld.sock
+unix  2      [ ACC ]     STREAM     LISTENING     3173802  /tmp/.java_pid120066.tmp
+unix  3      [ ]         SEQPACKET  CONNECTED     652487   @6ecd7
+unix  2      [ ACC ]     STREAM     LISTENING     18969    /run/systemd/resolve/io.systemd.Resolve
+unix  2      [ ACC ]     STREAM     LISTENING     33686    @/tmp/.X11-unix/X1
+unix  2      [ ACC ]     STREAM     LISTENING     18977    /run/acpid.socket
+unix  2      [ ]         DGRAM                    36142    /run/user/1000/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     18979    /run/avahi-daemon/socket
+unix  2      [ ACC ]     STREAM     LISTENING     36145    /run/user/1000/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     35298    /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     3170083  /tmp/.java_pid120401.tmp
+unix  2      [ ACC ]     STREAM     LISTENING     25738    /run/dbus/system_bus_socket
+unix  2      [ ACC ]     STREAM     LISTENING     35300    /run/user/1000/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     35302    /run/user/1000/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     25742    /run/snapd.socket
+unix  2      [ ACC ]     STREAM     LISTENING     35304    /run/user/1000/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     25744    /run/snapd-snap.socket
+unix  2      [ ACC ]     STREAM     LISTENING     35306    /run/user/1000/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     35308    /run/user/1000/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     LISTENING     35310    /run/user/1000/pipewire-0
+unix  2      [ ACC ]     STREAM     LISTENING     35312    /run/user/1000/pk-debconf-socket
+unix  2      [ ACC ]     STREAM     LISTENING     25746    /run/uuidd/request
+unix  2      [ ACC ]     STREAM     LISTENING     35314    /run/user/1000/pulse/native
+unix  2      [ ACC ]     STREAM     LISTENING     35316    /run/user/1000/snapd-session-agent.socket
+unix  2      [ ACC ]     STREAM     LISTENING     35318    /run/user/1000/speech-dispatcher/speechd.sock
+unix  3      [ ]         SEQPACKET  CONNECTED     3130610  @b8b2e
+unix  2      [ ACC ]     STREAM     LISTENING     33629    /run/user/1000/keyring/control
+unix  2      [ ACC ]     STREAM     LISTENING     651250   /tmp/.com.microsoft.Edge.AAPIEP/SingletonSocket
+unix  3      [ ]         SEQPACKET  CONNECTED     652481   @6ff76
+unix  3      [ ]         SEQPACKET  CONNECTED     3130599  @2d5f7
+unix  3      [ ]         SEQPACKET  CONNECTED     3130612  @9e1b4
+unix  2      [ ACC ]     STREAM     LISTENING     33687    /tmp/.X11-unix/X1
+unix  3      [ ]         SEQPACKET  CONNECTED     645030   @3d4b7
+unix  2      [ ACC ]     STREAM     LISTENING     3182983  /home/deyaa/.cache/JetBrains/IntelliJIdea2023.2/.port
+unix  2      [ ACC ]     STREAM     LISTENING     37156    /tmp/.ICE-unix/3079
+unix  2      [ ACC ]     STREAM     LISTENING     28603    /run/user/1000/at-spi/bus_1
+unix  2      [ ACC ]     STREAM     LISTENING     283146   /run/containerd/containerd.sock.ttrpc
+unix  2      [ ACC ]     STREAM     LISTENING     283147   /run/containerd/containerd.sock
+unix  2      [ ACC ]     STREAM     LISTENING     19197    @/tmp/dbus-MLN214B9
+unix  2      [ ACC ]     STREAM     LISTENING     36360    /run/user/1000/keyring/pkcs11
+unix  2      [ ACC ]     STREAM     LISTENING     36362    /run/user/1000/keyring/ssh
+unix  2      [ ACC ]     STREAM     LISTENING     3133060  /tmp/.com.google.Chrome.Eznd62/SingletonSocket
+unix  2      [ ACC ]     STREAM     LISTENING     29946    /var/run/nvidia-persistenced/socket
+unix  5      [ ]         DGRAM      CONNECTED     19922    /run/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     19925    /run/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     19927    /run/systemd/userdb/io.systemd.DynamicUser
+unix  2      [ ACC ]     STREAM     LISTENING     19928    /run/systemd/io.system.ManagedOOM
+unix  2      [ ]         DGRAM                    19938    /run/systemd/journal/syslog
+unix  2      [ ACC ]     STREAM     LISTENING     19940    /run/systemd/fsck.progress
+unix  21     [ ]         DGRAM      CONNECTED     19947    /run/systemd/journal/dev-log
+unix  10     [ ]         DGRAM      CONNECTED     19949    /run/systemd/journal/socket
+unix  2      [ ACC ]     STREAM     LISTENING     19951    /run/systemd/journal/stdout
+unix  2      [ ACC ]     SEQPACKET  LISTENING     19953    /run/udev/control
+unix  2      [ ACC ]     STREAM     LISTENING     1012634  /run/containerd/s/68d0e1d8aab4b723755eec320fc8b25fb6aae18a3390bcb99bf5e9a56c04a85b
+unix  2      [ ]         DGRAM                    32578    @var/run/nvidia-xdriver-9ab44b86@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+unix  2      [ ACC ]     STREAM     LISTENING     19079    /run/irqbalance/irqbalance714.sock
+unix  2      [ ]         DGRAM                    33505    @b359b
+unix  2      [ ACC ]     STREAM     LISTENING     21696    /run/systemd/journal/io.systemd.journal
+unix  2      [ ACC ]     STREAM     LISTENING     37239    @/home/deyaa/.cache/ibus/dbus-TG0x06TM
+unix  3      [ ]         SEQPACKET  CONNECTED     3133026  @dcb6f
+unix  3      [ ]         SEQPACKET  CONNECTED     645029   @83e08
+unix  3      [ ]         SEQPACKET  CONNECTED     3133027  @c7508
+unix  2      [ ACC ]     STREAM     LISTENING     1023012  /run/containerd/s/cdd2632006d0b698cd78cd098481f6e1901dbf299ec8504f35350f6cf7d03463
+unix  2      [ ACC ]     STREAM     LISTENING     33507    /var/run/docker.sock
+unix  2      [ ACC ]     STREAM     LISTENING     30469    /run/snap.docker/containerd/containerd-debug.sock
+unix  2      [ ACC ]     STREAM     LISTENING     30470    /run/snap.docker/containerd/containerd.sock.ttrpc
+unix  2      [ ACC ]     STREAM     LISTENING     30471    /run/snap.docker/containerd/containerd.sock
+unix  2      [ ACC ]     STREAM     LISTENING     34155    /run/snap.docker/metrics.sock
+unix  2      [ ACC ]     STREAM     LISTENING     283893   /run/docker.sock
+unix  2      [ ACC ]     STREAM     LISTENING     279542   /var/run/docker/metrics.sock
+unix  2      [ ACC ]     STREAM     LISTENING     283225   /var/run/docker/libnetwork/27ddad5c4cee.sock
+unix  2      [ ACC ]     STREAM     LISTENING     31307    /run/snap.docker/libnetwork/f7cf960f1369.sock
+unix  2      [ ACC ]     STREAM     LISTENING     19123    /var/run/mysqld/mysqlx.sock
+unix  2      [ ACC ]     STREAM     LISTENING     19198    @/tmp/dbus-EhO9PPA8
+unix  3      [ ]         SEQPACKET  CONNECTED     3130600  @52941
+unix  3      [ ]         STREAM     CONNECTED     653567
+unix  3      [ ]         STREAM     CONNECTED     165629
+unix  3      [ ]         STREAM     CONNECTED     54449    @/home/deyaa/.cache/ibus/dbus-TG0x06TM
+unix  3      [ ]         STREAM     CONNECTED     652230
+unix  3      [ ]         STREAM     CONNECTED     36937
+unix  3      [ ]         STREAM     CONNECTED     720889   @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     34703    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     36498    @/home/deyaa/.cache/ibus/dbus-TG0x06TM
+unix  3      [ ]         STREAM     CONNECTED     35382
+unix  2      [ ]         DGRAM      CONNECTED     29052
+unix  3      [ ]         STREAM     CONNECTED     651792
+unix  3      [ ]         STREAM     CONNECTED     34570    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     35598
+unix  3      [ ]         STREAM     CONNECTED     37968    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     3189597
+unix  3      [ ]         STREAM     CONNECTED     3134599
+unix  3      [ ]         STREAM     CONNECTED     654699
+unix  2      [ ]         DGRAM                    31655
+unix  3      [ ]         STREAM     CONNECTED     27751
+unix  3      [ ]         STREAM     CONNECTED     64762
+unix  3      [ ]         STREAM     CONNECTED     643994
+unix  3      [ ]         STREAM     CONNECTED     3147557
+unix  3      [ ]         STREAM     CONNECTED     3134045
+unix  3      [ ]         STREAM     CONNECTED     31603    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     36068    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3189652
+unix  3      [ ]         STREAM     CONNECTED     54448    /run/user/1000/at-spi/bus_1
+unix  3      [ ]         STREAM     CONNECTED     27854
+unix  3      [ ]         STREAM     CONNECTED     3187357
+unix  3      [ ]         STREAM     CONNECTED     3136786
+unix  3      [ ]         STREAM     CONNECTED     3131750  @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     32747
+unix  3      [ ]         STREAM     CONNECTED     29069
+unix  3      [ ]         STREAM     CONNECTED     3190682
+unix  3      [ ]         STREAM     CONNECTED     643996
+unix  3      [ ]         STREAM     CONNECTED     61763    /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     31592    @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     35560    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     34404    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3189596
+unix  3      [ ]         STREAM     CONNECTED     3134603
+unix  3      [ ]         STREAM     CONNECTED     654700
+unix  3      [ ]         STREAM     CONNECTED     3186336
+unix  3      [ ]         SEQPACKET  CONNECTED     3130611
+unix  3      [ ]         STREAM     CONNECTED     645040
+unix  3      [ ]         STREAM     CONNECTED     36930
+unix  3      [ ]         STREAM     CONNECTED     27755    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3190713
+unix  3      [ ]         STREAM     CONNECTED     3154015
+unix  3      [ ]         STREAM     CONNECTED     725700   /run/user/1000/at-spi/bus_1
+unix  3      [ ]         STREAM     CONNECTED     652679
+unix  3      [ ]         STREAM     CONNECTED     39052
+unix  3      [ ]         STREAM     CONNECTED     35552
+unix  3      [ ]         STREAM     CONNECTED     651794
+unix  3      [ ]         STREAM     CONNECTED     651793   /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     40985
+unix  3      [ ]         STREAM     CONNECTED     37989
+unix  3      [ ]         STREAM     CONNECTED     283191   /run/containerd/containerd.sock
+unix  3      [ ]         STREAM     CONNECTED     3136817
+unix  3      [ ]         STREAM     CONNECTED     3133303
+unix  3      [ ]         STREAM     CONNECTED     645050   @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     62740
+unix  3      [ ]         STREAM     CONNECTED     32720
+unix  3      [ ]         STREAM     CONNECTED     3189421
+unix  3      [ ]         STREAM     CONNECTED     652675
+unix  3      [ ]         STREAM     CONNECTED     32750    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     35389
+unix  3      [ ]         STREAM     CONNECTED     33583
+unix  3      [ ]         STREAM     CONNECTED     3133122
+unix  3      [ ]         STREAM     CONNECTED     653888
+unix  3      [ ]         STREAM     CONNECTED     54274
+unix  3      [ ]         STREAM     CONNECTED     653568
+unix  3      [ ]         STREAM     CONNECTED     39034    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27838
+unix  3      [ ]         STREAM     CONNECTED     645046
+unix  3      [ ]         STREAM     CONNECTED     158398   /run/user/1000/gvfsd/socket-uZxJsEbJ
+unix  3      [ ]         STREAM     CONNECTED     652638
+unix  3      [ ]         STREAM     CONNECTED     643995
+unix  3      [ ]         STREAM     CONNECTED     127172
+unix  3      [ ]         STREAM     CONNECTED     48715
+unix  3      [ ]         STREAM     CONNECTED     36521    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     31584    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3149593
+unix  3      [ ]         STREAM     CONNECTED     651974
+unix  3      [ ]         STREAM     CONNECTED     54273
+unix  3      [ ]         STREAM     CONNECTED     32498    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     34196    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3186214
+unix  3      [ ]         STREAM     CONNECTED     3191984  @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     3136853
+unix  3      [ ]         STREAM     CONNECTED     3133563
+unix  3      [ ]         STREAM     CONNECTED     3130632
+unix  2      [ ]         DGRAM      CONNECTED     18793
+unix  3      [ ]         STREAM     CONNECTED     3154863  /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     31616    @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     35571
+unix  3      [ ]         STREAM     CONNECTED     651969
+unix  3      [ ]         STREAM     CONNECTED     38012
+unix  3      [ ]         STREAM     CONNECTED     32499    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3189364  /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     3182987  @/home/deyaa/.cache/ibus/dbus-TG0x06TM
+unix  3      [ ]         STREAM     CONNECTED     3130638
+unix  3      [ ]         STREAM     CONNECTED     3133560
+unix  3      [ ]         STREAM     CONNECTED     644046
+unix  3      [ ]         STREAM     CONNECTED     654447   @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     127178
+unix  3      [ ]         STREAM     CONNECTED     652624
+unix  3      [ ]         STREAM     CONNECTED     39080    /run/user/1000/gvfsd/socket-fNOU1gAR
+unix  3      [ ]         STREAM     CONNECTED     3147560
+unix  3      [ ]         STREAM     CONNECTED     3129808
+unix  3      [ ]         STREAM     CONNECTED     651221
+unix  3      [ ]         STREAM     CONNECTED     45885    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     34562    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     35601
+unix  3      [ ]         STREAM     CONNECTED     36334    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3134804
+unix  3      [ ]         STREAM     CONNECTED     33284    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3136805
+unix  3      [ ]         SEQPACKET  CONNECTED     3130602
+unix  3      [ ]         STREAM     CONNECTED     651797   @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     29719    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3189372
+unix  3      [ ]         STREAM     CONNECTED     3190693
+unix  3      [ ]         STREAM     CONNECTED     31637    @/home/deyaa/.cache/ibus/dbus-TG0x06TM
+unix  3      [ ]         STREAM     CONNECTED     3133123
+unix  3      [ ]         STREAM     CONNECTED     729473
+unix  3      [ ]         STREAM     CONNECTED     656437
+unix  3      [ ]         STREAM     CONNECTED     38024
+unix  3      [ ]         STREAM     CONNECTED     36432    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3189653
+unix  3      [ ]         STREAM     CONNECTED     3134604
+unix  3      [ ]         STREAM     CONNECTED     63683    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     27771
+unix  3      [ ]         STREAM     CONNECTED     62742
+unix  3      [ ]         STREAM     CONNECTED     3189479
+unix  3      [ ]         STREAM     CONNECTED     35575
+unix  3      [ ]         STREAM     CONNECTED     3149592
+unix  3      [ ]         STREAM     CONNECTED     3129807
+unix  3      [ ]         STREAM     CONNECTED     656427
+unix  3      [ ]         STREAM     CONNECTED     127174   /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     49872
+unix  3      [ ]         STREAM     CONNECTED     38004
+unix  3      [ ]         STREAM     CONNECTED     3197505
+unix  3      [ ]         STREAM     CONNECTED     3133037  /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     32479    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     3130635
+unix  3      [ ]         STREAM     CONNECTED     30736    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3155419
+unix  3      [ ]         STREAM     CONNECTED     3131786  @/home/deyaa/.cache/ibus/dbus-TG0x06TM
+unix  3      [ ]         STREAM     CONNECTED     1011681
+unix  3      [ ]         STREAM     CONNECTED     35582    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3153827
+unix  3      [ ]         STREAM     CONNECTED     38023
+unix  3      [ ]         STREAM     CONNECTED     38953    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     32488    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     126615   @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     3187356
+unix  3      [ ]         STREAM     CONNECTED     3130633
+unix  3      [ ]         STREAM     CONNECTED     64761
+unix  3      [ ]         STREAM     CONNECTED     3160616  /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     652639
+unix  3      [ ]         STREAM     CONNECTED     38006    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     37966    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     33582
+unix  3      [ ]         STREAM     CONNECTED     3153828
+unix  3      [ ]         STREAM     CONNECTED     651973
+unix  3      [ ]         STREAM     CONNECTED     128136   /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     49868    @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     34480    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     29711    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3182986
+unix  3      [ ]         STREAM     CONNECTED     3158825  /run/user/1000/at-spi/bus_1
+unix  3      [ ]         STREAM     CONNECTED     653573
+unix  3      [ ]         STREAM     CONNECTED     39036    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     28609
+unix  3      [ ]         STREAM     CONNECTED     33675    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3151787
+unix  3      [ ]         STREAM     CONNECTED     3189422
+unix  3      [ ]         STREAM     CONNECTED     3154014
+unix  3      [ ]         STREAM     CONNECTED     652867
+unix  3      [ ]         STREAM     CONNECTED     48718    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     32744    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     31598    @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     3133302
+unix  3      [ ]         STREAM     CONNECTED     3129806
+unix  3      [ ]         STREAM     CONNECTED     162125   /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3129081  /run/user/1000/at-spi/bus_1
+unix  3      [ ]         STREAM     CONNECTED     165636
+unix  3      [ ]         STREAM     CONNECTED     27824
+unix  3      [ ]         STREAM     CONNECTED     3136854
+unix  3      [ ]         STREAM     CONNECTED     645042
+unix  3      [ ]         STREAM     CONNECTED     651800   @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     3135815  /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     37979    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     35438
+unix  2      [ ]         DGRAM      CONNECTED     20398
+unix  3      [ ]         STREAM     CONNECTED     653769
+unix  3      [ ]         STREAM     CONNECTED     654451   /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     31573
+unix  3      [ ]         STREAM     CONNECTED     3134602
+unix  3      [ ]         STREAM     CONNECTED     3160620
+unix  3      [ ]         STREAM     CONNECTED     3133559
+unix  3      [ ]         STREAM     CONNECTED     645051
+unix  3      [ ]         STREAM     CONNECTED     30707
+unix  3      [ ]         STREAM     CONNECTED     31774    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     131101
+unix  3      [ ]         STREAM     CONNECTED     3153826
+unix  3      [ ]         STREAM     CONNECTED     3129967
+unix  3      [ ]         STREAM     CONNECTED     652117
+unix  3      [ ]         STREAM     CONNECTED     653752
+unix  3      [ ]         STREAM     CONNECTED     651229
+unix  3      [ ]         STREAM     CONNECTED     37978
+unix  3      [ ]         STREAM     CONNECTED     36202    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     18017    /run/systemd/io.system.ManagedOOM
+unix  3      [ ]         STREAM     CONNECTED     3197498
+unix  3      [ ]         STREAM     CONNECTED     3134874
+unix  3      [ ]         STREAM     CONNECTED     3151792
+unix  3      [ ]         STREAM     CONNECTED     645047
+unix  3      [ ]         STREAM     CONNECTED     651799   @/tmp/.X11-unix/X1
+unix  2      [ ]         DGRAM      CONNECTED     33593
+unix  2      [ ]         DGRAM                    39953
+unix  3      [ ]         STREAM     CONNECTED     35547
+unix  3      [ ]         STREAM     CONNECTED     18785
+unix  3      [ ]         STREAM     CONNECTED     3129936
+unix  3      [ ]         STREAM     CONNECTED     653885
+unix  3      [ ]         STREAM     CONNECTED     127175   /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     38020
+unix  3      [ ]         STREAM     CONNECTED     35596
+unix  3      [ ]         STREAM     CONNECTED     31589
+unix  3      [ ]         STREAM     CONNECTED     3197499
+unix  3      [ ]         STREAM     CONNECTED     37970
+unix  3      [ ]         STREAM     CONNECTED     652231
+unix  3      [ ]         STREAM     CONNECTED     652869
+unix  3      [ ]         STREAM     CONNECTED     652674
+unix  3      [ ]         SEQPACKET  CONNECTED     652488
+unix  3      [ ]         STREAM     CONNECTED     37977    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     35546
+unix  2      [ ]         DGRAM      CONNECTED     30706
+unix  3      [ ]         DGRAM      CONNECTED     19923
+unix  3      [ ]         STREAM     CONNECTED     3153762
+unix  3      [ ]         STREAM     CONNECTED     653770
+unix  3      [ ]         STREAM     CONNECTED     31627
+unix  3      [ ]         STREAM     CONNECTED     25773    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     654698
+unix  3      [ ]         STREAM     CONNECTED     655396   /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     653575
+unix  3      [ ]         STREAM     CONNECTED     3192249  /run/user/1000/at-spi/bus_1
+unix  3      [ ]         STREAM     CONNECTED     645052
+unix  3      [ ]         STREAM     CONNECTED     3189478
+unix  3      [ ]         STREAM     CONNECTED     38021    /run/user/1000/at-spi/bus_1
+unix  3      [ ]         STREAM     CONNECTED     36520    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3133121
+unix  3      [ ]         STREAM     CONNECTED     729471
+unix  3      [ ]         STREAM     CONNECTED     31588
+unix  3      [ ]         STREAM     CONNECTED     28658    /run/dbus/system_bus_socket
+unix  2      [ ]         STREAM                   3182981
+unix  3      [ ]         STREAM     CONNECTED     3134595
+unix  3      [ ]         STREAM     CONNECTED     3151788
+unix  3      [ ]         STREAM     CONNECTED     3136138
+unix  3      [ ]         STREAM     CONNECTED     3133304
+unix  3      [ ]         STREAM     CONNECTED     159407   /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     35347    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     3155421
+unix  3      [ ]         STREAM     CONNECTED     654595
+unix  3      [ ]         STREAM     CONNECTED     35402
+unix  3      [ ]         STREAM     CONNECTED     3147559
+unix  3      [ ]         STREAM     CONNECTED     653751
+unix  3      [ ]         STREAM     CONNECTED     31636
+unix  3      [ ]         STREAM     CONNECTED     3134601
+unix  3      [ ]         SEQPACKET  CONNECTED     3130603
+unix  3      [ ]         STREAM     CONNECTED     645043
+unix  3      [ ]         STREAM     CONNECTED     28450    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     645033   /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     39028    /run/user/1000/at-spi/bus_1
+unix  3      [ ]         STREAM     CONNECTED     35572
+unix  3      [ ]         STREAM     CONNECTED     35559    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3189373  /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     3147558
+unix  3      [ ]         STREAM     CONNECTED     652116
+unix  3      [ ]         STREAM     CONNECTED     3134873
+unix  3      [ ]         STREAM     CONNECTED     165632
+unix  3      [ ]         STREAM     CONNECTED     3186337
+unix  3      [ ]         STREAM     CONNECTED     3136787
+unix  3      [ ]         STREAM     CONNECTED     654446   @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     34295
+unix  3      [ ]         STREAM     CONNECTED     29833    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     126614
+unix  3      [ ]         STREAM     CONNECTED     31628    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     18983
+unix  3      [ ]         STREAM     CONNECTED     3129828
+unix  3      [ ]         STREAM     CONNECTED     1022003
+unix  3      [ ]         STREAM     CONNECTED     32710    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     34195    @/tmp/dbus-MLN214B9
+unix  2      [ ]         STREAM     CONNECTED     452087   /run/docker.sock
+unix  3      [ ]         STREAM     CONNECTED     35349    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     3130636
+unix  3      [ ]         STREAM     CONNECTED     283902
+unix  3      [ ]         STREAM     CONNECTED     26582
+unix  3      [ ]         STREAM     CONNECTED     19113    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     34561    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     35555
+unix  3      [ ]         STREAM     CONNECTED     18987
+unix  3      [ ]         STREAM     CONNECTED     3164215
+unix  3      [ ]         STREAM     CONNECTED     3153824
+unix  3      [ ]         STREAM     CONNECTED     31583
+unix  3      [ ]         STREAM     CONNECTED     18385    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     656875   /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     651222   /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     36868
+unix  2      [ ]         DGRAM      CONNECTED     33506
+unix  3      [ ]         STREAM     CONNECTED     1017284  /run/containerd/s/cdd2632006d0b698cd78cd098481f6e1901dbf299ec8504f35350f6cf7d03463
+unix  3      [ ]         STREAM     CONNECTED     652868
+unix  3      [ ]         STREAM     CONNECTED     38025    @/home/deyaa/.cache/ibus/dbus-TG0x06TM
+unix  3      [ ]         STREAM     CONNECTED     35581
+unix  3      [ ]         STREAM     CONNECTED     3153763
+unix  3      [ ]         STREAM     CONNECTED     3129827
+unix  3      [ ]         STREAM     CONNECTED     651236
+unix  3      [ ]         STREAM     CONNECTED     31607
+unix  3      [ ]         STREAM     CONNECTED     3134810
+unix  3      [ ]         STREAM     CONNECTED     653571
+unix  3      [ ]         STREAM     CONNECTED     3192250  /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     3187358
+unix  3      [ ]         STREAM     CONNECTED     3133321
+unix  3      [ ]         STREAM     CONNECTED     3130639
+unix  3      [ ]         SEQPACKET  CONNECTED     3130613

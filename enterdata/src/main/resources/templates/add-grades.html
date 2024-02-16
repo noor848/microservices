@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter Student Grade</title>
+    <style>
+        body {
+            font-family: "Roboto", sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        .form-container {
+            position: relative;
+            z-index: 1;
+            background: #FFFFFF;
+            max-width: 360px;
+            margin: 0 auto 100px;
+            padding: 45px;
+            text-align: center;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+
+        input {
+            font-family: "Roboto", sans-serif;
+            outline: 0;
+            background: #f2f2f2;
+            width: 100%;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+
+        button {
+            font-family: "Roboto", sans-serif;
+            text-transform: uppercase;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button.clear {
+            background-color: #f44336;
+            margin-left: 10px;
+        }
+        .form .message a {
+            color: #ff1200;
+            text-decoration: none;
+        }
+
+    </style>
+</head>
+<body>
+<div class="form-container">
+    <h2>Enter Student Grade</h2>
+    <form id="grade-form" action="/add" method="post">
+        <div class="form-group">
+            <label for="studentName">Student Name</label>
+            <input type="text" id="studentName" name="studentName" required placeholder="Student Name">
+        </div>
+        <div class="form-group">
+            <label for="grade">Grade</label>
+            <input type="number" id="grade" name="grade" min="0" max="100" required placeholder="Grade form 0 - 100">
+        </div>
+        <button type="submit">Submit</button>
+        <button type="button" class="clear" onclick="clearForm()">Clear</button>
+        <p class="message" th:text="${message}"></p>
+    </form>
+</div>
+
+<script>
+    function clearForm() {
+        document.getElementById("grade-form").reset();
+    }
+</script>
+</body>
+</html>
