@@ -1,0 +1,36 @@
+name: Build Docker Images
+
+on:
+  push:
+    branches:
+      - main # Adjust this as necessary for your workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    services:
+      docker:
+        image: docker:19.03.12
+        options: --privileged
+        ports:
+          - 2375:2375
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Build authentication-service Docker image
+        run: docker build -t authentication-service ./authentication
+
+      - name: Build enter-data-service Docker image
+        run: docker build -t enter-data-service ./enterdata
+
+      - name: Build analysis-service Docker image
+        run: docker build -t analysis-service ./analysis
+
+      - name: Build show-data-service Docker image
+        run: docker build -t show-data-service ./showdata
+
+      # Add any other build steps for additional services here
